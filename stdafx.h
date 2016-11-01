@@ -11,7 +11,10 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include <SFML/Graphics.hpp>
+#include <iostream>
+#include <map>
+#include <functional>
 
 
 // TODO: Установите здесь ссылки на дополнительные заголовки, требующиеся для программы
